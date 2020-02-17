@@ -1,0 +1,7 @@
+sqs:
+  queue:
+    producer: "some-sqs-queue"
+    consumer: "some-sqs-queue"
+
+cloud.aws.region.static: eu-central-1
+cloud.aws.stack.auto: false
